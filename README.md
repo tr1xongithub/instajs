@@ -1,13 +1,13 @@
 # Instant File Download Though Javasciprt
 this tool will create a html file with javascript to download a file as soon as the victim opens the link
 
-#Install
+# Install
 ```
 git clone https://github.com/tr1xongithub/instajs.git
 cd instajs
 python3 instajs
 ```
-#Usage
+# Usage
 ```
 python3 instajs.py -f FILE
 ```
