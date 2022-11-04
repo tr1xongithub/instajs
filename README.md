@@ -13,9 +13,7 @@ python3 instajs.py -f FILE
 ```
 
 # How does it work
-```
 We are creating a blob object which we are reaching out for that will then impersonate a user click thus downloading the file
-```
 
 ## DISCLAIMER
 
